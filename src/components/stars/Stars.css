@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+}
+
+.card-body-stars {
+    display: flex;
+    max-height: 28px;
+    justify-content: center;
+    padding: 0;
+    padding: 0;
+
+}
+
+.card {
+    position: fixed;
+    top: 45vh;
+    left: 45vw;
+}
